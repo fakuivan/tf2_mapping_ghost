@@ -7,11 +7,11 @@ The ghost used on maps like koth_harvest_event is usually composed by:
   <li><strong>func_train</strong></li>    
     <ul>
       <li><strong>trigger_stun</strong></li>
-        <dd>the thing that scares you</dd>
+        <dd>the thing that scares you, usually delayed by .5s</dd>
       <li><strong>prop_dynamic</strong></li>
         <dd>the ghost model</dd>
       <li><strong>ambient_generic</strong></li>
-        <dd>the boo! sound, triggered by the trigger_stun, usually delayed by .5s</dd>
+        <dd>the boo! sound, triggered by the trigger_stun</dd>
       <li><strong>info_particle_system</strong></li>
         <dd>teleport efect</dd>
       <li><strong>path_trach</strong></li>
