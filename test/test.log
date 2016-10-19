@@ -1,0 +1,1632 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.vmf
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_halloweendn)
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3544 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10 texinfos to 6
+Reduced 2 texdatas to 2 (49 bytes to 49)
+Writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+33 faces
+39879 square feet [5742592.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+33 patches before subdivision
+2679 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 212763, max 218
+transfer lists:   1.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              60/65536         480/524288   ( 0.1%) 
+planes                  42/65536         840/1310720  ( 0.1%) 
+vertexes                62/65536         744/786432   ( 0.1%) 
+nodes                   27/65536         864/2097152  ( 0.0%) 
+texinfos                 6/12288         432/884736   ( 0.0%) 
+texdata                  2/2048           64/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   33/65536        1848/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               10/65536         560/3670016  ( 0.0%) 
+leaves                  29/65536         928/2097152  ( 0.0%) 
+leaffaces               33/65536          66/131072   ( 0.1%) 
+leafbrushes             32/65536          64/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              184/512000        736/2048000  ( 0.0%) 
+edges                  109/256000        436/1024000  ( 0.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       51628/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]         354/393216   ( 0.1%) 
+LDR ambient table       29/65536         116/262144   ( 0.0%) 
+HDR ambient table       29/65536         116/262144   ( 0.0%) 
+LDR leaf ambient         4/65536         112/1835008  ( 0.0%) 
+HDR leaf ambient        29/65536         812/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        3544/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 78
+Writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3551 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10 texinfos to 4
+Reduced 2 texdatas to 2 (44 bytes to 44)
+Writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+33 faces
+32369 square feet [4661248.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+33 patches before subdivision
+1911 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 102429, max 171
+transfer lists:   0.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(790, 465, 1223)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(46, 26, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0009 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              60/65536         480/524288   ( 0.1%) 
+planes                  42/65536         840/1310720  ( 0.1%) 
+vertexes                62/65536         744/786432   ( 0.1%) 
+nodes                   27/65536         864/2097152  ( 0.0%) 
+texinfos                 4/12288         288/884736   ( 0.0%) 
+texdata                  2/2048           64/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   33/65536        1848/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               10/65536         560/3670016  ( 0.0%) 
+leaves                  29/65536         928/2097152  ( 0.0%) 
+leaffaces               33/65536          66/131072   ( 0.1%) 
+leafbrushes             32/65536          64/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              184/512000        736/2048000  ( 0.0%) 
+edges                  109/256000        436/1024000  ( 0.0%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       33836/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]         650/393216   ( 0.2%) 
+LDR ambient table       29/65536         116/262144   ( 0.0%) 
+HDR ambient table       29/65536         116/262144   ( 0.0%) 
+LDR leaf ambient        64/65536        1792/1835008  ( 0.1%) 
+HDR leaf ambient        29/65536         812/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        3551/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 78
+Writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4659 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 22 texinfos to 8
+Reduced 4 texdatas to 4 (81 bytes to 81)
+Writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+39 faces
+33735 square feet [4857856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+39 patches before subdivision
+1917 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 102942, max 171
+transfer lists:   0.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(796, 468, 1231)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(46, 27, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0009 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 12/8192          144/98304    ( 0.1%) 
+brushsides              72/65536         576/524288   ( 0.1%) 
+planes                  86/65536        1720/1310720  ( 0.1%) 
+vertexes                78/65536         936/786432   ( 0.1%) 
+nodes                   39/65536        1248/2097152  ( 0.1%) 
+texinfos                 8/12288         576/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   39/65536        2184/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               16/65536         896/3670016  ( 0.0%) 
+leaves                  43/65536        1376/2097152  ( 0.1%) 
+leaffaces               39/65536          78/131072   ( 0.1%) 
+leafbrushes             34/65536          68/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              232/512000        928/2048000  ( 0.0%) 
+edges                  133/256000        532/1024000  ( 0.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       33836/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]        3045/393216   ( 0.8%) 
+LDR ambient table       43/65536         172/262144   ( 0.1%) 
+HDR ambient table       43/65536         172/262144   ( 0.1%) 
+LDR leaf ambient       127/65536        3556/1835008  ( 0.2%) 
+HDR leaf ambient        43/65536        1204/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        4659/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 90
+Writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5598 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 31 texinfos to 14
+Reduced 6 texdatas to 6 (128 bytes to 128)
+Writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.prt
+   8 portalclusters
+  16 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 62
+Average clusters visible: 7
+Building PAS...
+Average clusters audible: 8
+visdatasize:84  compressed from 128
+writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+53 faces
+33755 square feet [4860816.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+53 patches before subdivision
+1887 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 104556, max 174
+transfer lists:   0.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(794, 467, 1230)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(46, 27, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0010 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 14/8192          168/98304    ( 0.2%) 
+brushsides              84/65536         672/524288   ( 0.1%) 
+planes                 122/65536        2440/1310720  ( 0.2%) 
+vertexes               103/65536        1236/786432   ( 0.2%) 
+nodes                   50/65536        1600/2097152  ( 0.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   53/65536        2968/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               27/65536        1512/3670016  ( 0.0%) 
+leaves                  55/65536        1760/2097152  ( 0.1%) 
+leaffaces               60/65536         120/131072   ( 0.1%) 
+leafbrushes             35/65536          70/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              342/512000       1368/2048000  ( 0.1%) 
+edges                  190/256000        760/1024000  ( 0.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            18/65536          36/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       34600/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          84/16777216 ( 0.0%) 
+entdata               [variable]        3662/393216   ( 0.9%) 
+LDR ambient table       55/65536         220/262144   ( 0.1%) 
+HDR ambient table       55/65536         220/262144   ( 0.1%) 
+LDR leaf ambient       146/65536        4088/1835008  ( 0.2%) 
+HDR leaf ambient        55/65536        1540/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        5598/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 128
+Writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 39 texinfos to 20
+Reduced 6 texdatas to 6 (128 bytes to 128)
+Writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.prt
+   9 portalclusters
+  18 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 79
+Average clusters visible: 8
+Building PAS...
+Average clusters audible: 9
+visdatasize:112  compressed from 144
+writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+65 faces
+33776 square feet [4863777.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+65 patches before subdivision
+1907 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 107971, max 175
+transfer lists:   0.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(800, 471, 1239)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(46, 27, 71)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 16/8192          192/98304    ( 0.2%) 
+brushsides              96/65536         768/524288   ( 0.1%) 
+planes                 134/65536        2680/1310720  ( 0.2%) 
+vertexes               123/65536        1476/786432   ( 0.2%) 
+nodes                   58/65536        1856/2097152  ( 0.1%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   65/65536        3640/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               38/65536        2128/3670016  ( 0.1%) 
+leaves                  64/65536        2048/2097152  ( 0.1%) 
+leaffaces               74/65536         148/131072   ( 0.1%) 
+leafbrushes             36/65536          72/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              438/512000       1752/2048000  ( 0.1%) 
+edges                  240/256000        960/1024000  ( 0.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            18/65536          36/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       34864/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         112/16777216 ( 0.0%) 
+entdata               [variable]        4146/393216   ( 1.1%) 
+LDR ambient table       64/65536         256/262144   ( 0.1%) 
+HDR ambient table       64/65536         256/262144   ( 0.1%) 
+LDR leaf ambient       151/65536        4228/1835008  ( 0.2%) 
+HDR leaf ambient        64/65536        1792/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        6537/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 156
+Writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7092 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 41 texinfos to 22
+Reduced 6 texdatas to 6 (128 bytes to 128)
+Writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.prt
+   8 portalclusters
+  15 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 62
+Average clusters visible: 7
+Building PAS...
+Average clusters audible: 8
+visdatasize:84  compressed from 128
+writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+70 faces
+34295 square feet [4938533.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+70 patches before subdivision
+1904 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 107907, max 178
+transfer lists:   0.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(802, 472, 1243)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(47, 27, 71)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 17/8192          204/98304    ( 0.2%) 
+brushsides             102/65536         816/524288   ( 0.2%) 
+planes                 148/65536        2960/1310720  ( 0.2%) 
+vertexes               129/65536        1548/786432   ( 0.2%) 
+nodes                   63/65536        2016/2097152  ( 0.1%) 
+texinfos                22/12288        1584/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   70/65536        3920/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               44/65536        2464/3670016  ( 0.1%) 
+leaves                  70/65536        2240/2097152  ( 0.1%) 
+leaffaces               77/65536         154/131072   ( 0.1%) 
+leafbrushes             37/65536          74/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              480/512000       1920/2048000  ( 0.1%) 
+edges                  261/256000       1044/1024000  ( 0.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            21/65536          42/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       34792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          84/16777216 ( 0.0%) 
+entdata               [variable]        4868/393216   ( 1.2%) 
+LDR ambient table       70/65536         280/262144   ( 0.1%) 
+HDR ambient table       70/65536         280/262144   ( 0.1%) 
+LDR leaf ambient       182/65536        5096/1835008  ( 0.3%) 
+HDR leaf ambient        70/65536        1960/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        7092/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 164
+Writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7092 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 41 texinfos to 22
+Reduced 6 texdatas to 6 (128 bytes to 128)
+Writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.prt
+   8 portalclusters
+  15 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 62
+Average clusters visible: 7
+Building PAS...
+Average clusters audible: 8
+visdatasize:84  compressed from 128
+writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+70 faces
+34295 square feet [4938533.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+70 patches before subdivision
+1904 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 107907, max 178
+transfer lists:   0.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(802, 472, 1243)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(47, 27, 71)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0010 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 17/8192          204/98304    ( 0.2%) 
+brushsides             102/65536         816/524288   ( 0.2%) 
+planes                 148/65536        2960/1310720  ( 0.2%) 
+vertexes               129/65536        1548/786432   ( 0.2%) 
+nodes                   63/65536        2016/2097152  ( 0.1%) 
+texinfos                22/12288        1584/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   70/65536        3920/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               44/65536        2464/3670016  ( 0.1%) 
+leaves                  70/65536        2240/2097152  ( 0.1%) 
+leaffaces               77/65536         154/131072   ( 0.1%) 
+leafbrushes             37/65536          74/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              480/512000       1920/2048000  ( 0.1%) 
+edges                  261/256000       1044/1024000  ( 0.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            21/65536          42/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       34792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          84/16777216 ( 0.0%) 
+entdata               [variable]        4863/393216   ( 1.2%) 
+LDR ambient table       70/65536         280/262144   ( 0.1%) 
+HDR ambient table       70/65536         280/262144   ( 0.1%) 
+LDR leaf ambient       182/65536        5096/1835008  ( 0.3%) 
+HDR leaf ambient        70/65536        1960/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        7092/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 164
+Writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 19
+Reduced 6 texdatas to 6 (128 bytes to 128)
+Writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.prt
+   8 portalclusters
+  15 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 62
+Average clusters visible: 7
+Building PAS...
+Average clusters audible: 8
+visdatasize:84  compressed from 128
+writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+64 faces
+33845 square feet [4873699.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+64 patches before subdivision
+1898 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 107312, max 178
+transfer lists:   0.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(799, 471, 1238)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(46, 27, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0014 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 16/8192          192/98304    ( 0.2%) 
+brushsides              96/65536         768/524288   ( 0.1%) 
+planes                 134/65536        2680/1310720  ( 0.2%) 
+vertexes               121/65536        1452/786432   ( 0.2%) 
+nodes                   57/65536        1824/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   64/65536        3584/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               38/65536        2128/3670016  ( 0.1%) 
+leaves                  63/65536        2016/2097152  ( 0.1%) 
+leaffaces               71/65536         142/131072   ( 0.1%) 
+leafbrushes             36/65536          72/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              432/512000       1728/2048000  ( 0.1%) 
+edges                  237/256000        948/1024000  ( 0.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            21/65536          42/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       34792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          84/16777216 ( 0.0%) 
+entdata               [variable]        4468/393216   ( 1.1%) 
+LDR ambient table       63/65536         252/262144   ( 0.1%) 
+HDR ambient table       63/65536         252/262144   ( 0.1%) 
+LDR leaf ambient       147/65536        4116/1835008  ( 0.2%) 
+HDR leaf ambient        63/65536        1764/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        6537/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 152
+Writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 19
+Reduced 6 texdatas to 6 (128 bytes to 128)
+Writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.prt
+   8 portalclusters
+  15 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 62
+Average clusters visible: 7
+Building PAS...
+Average clusters audible: 8
+visdatasize:84  compressed from 128
+writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+64 faces
+33845 square feet [4873699.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+64 patches before subdivision
+1898 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 107312, max 178
+transfer lists:   0.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(799, 471, 1238)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(46, 27, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0015 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 16/8192          192/98304    ( 0.2%) 
+brushsides              96/65536         768/524288   ( 0.1%) 
+planes                 134/65536        2680/1310720  ( 0.2%) 
+vertexes               121/65536        1452/786432   ( 0.2%) 
+nodes                   57/65536        1824/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   64/65536        3584/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               38/65536        2128/3670016  ( 0.1%) 
+leaves                  63/65536        2016/2097152  ( 0.1%) 
+leaffaces               71/65536         142/131072   ( 0.1%) 
+leafbrushes             36/65536          72/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              432/512000       1728/2048000  ( 0.1%) 
+edges                  237/256000        948/1024000  ( 0.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            21/65536          42/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       34792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          84/16777216 ( 0.0%) 
+entdata               [variable]        4422/393216   ( 1.1%) 
+LDR ambient table       63/65536         252/262144   ( 0.1%) 
+HDR ambient table       63/65536         252/262144   ( 0.1%) 
+LDR leaf ambient       147/65536        4116/1835008  ( 0.2%) 
+HDR leaf ambient        63/65536        1764/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        6537/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 152
+Writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 19
+Reduced 6 texdatas to 6 (128 bytes to 128)
+Writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.prt
+   8 portalclusters
+  15 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 62
+Average clusters visible: 7
+Building PAS...
+Average clusters audible: 8
+visdatasize:84  compressed from 128
+writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+64 faces
+33845 square feet [4873699.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+64 patches before subdivision
+1898 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 107312, max 178
+transfer lists:   0.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(799, 471, 1238)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(46, 27, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0014 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 16/8192          192/98304    ( 0.2%) 
+brushsides              96/65536         768/524288   ( 0.1%) 
+planes                 134/65536        2680/1310720  ( 0.2%) 
+vertexes               121/65536        1452/786432   ( 0.2%) 
+nodes                   57/65536        1824/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   64/65536        3584/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               38/65536        2128/3670016  ( 0.1%) 
+leaves                  63/65536        2016/2097152  ( 0.1%) 
+leaffaces               71/65536         142/131072   ( 0.1%) 
+leafbrushes             36/65536          72/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              432/512000       1728/2048000  ( 0.1%) 
+edges                  237/256000        948/1024000  ( 0.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            21/65536          42/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       34792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          84/16777216 ( 0.0%) 
+entdata               [variable]        4460/393216   ( 1.1%) 
+LDR ambient table       63/65536         252/262144   ( 0.1%) 
+HDR ambient table       63/65536         252/262144   ( 0.1%) 
+LDR leaf ambient       147/65536        4116/1835008  ( 0.2%) 
+HDR leaf ambient        63/65536        1764/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        6537/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 152
+Writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 19
+Reduced 6 texdatas to 6 (128 bytes to 128)
+Writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.prt
+   8 portalclusters
+  15 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 62
+Average clusters visible: 7
+Building PAS...
+Average clusters audible: 8
+visdatasize:84  compressed from 128
+writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+64 faces
+33845 square feet [4873699.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+64 patches before subdivision
+1898 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 107312, max 178
+transfer lists:   0.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(799, 471, 1238)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(46, 27, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0014 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 16/8192          192/98304    ( 0.2%) 
+brushsides              96/65536         768/524288   ( 0.1%) 
+planes                 134/65536        2680/1310720  ( 0.2%) 
+vertexes               121/65536        1452/786432   ( 0.2%) 
+nodes                   57/65536        1824/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   64/65536        3584/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               38/65536        2128/3670016  ( 0.1%) 
+leaves                  63/65536        2016/2097152  ( 0.1%) 
+leaffaces               71/65536         142/131072   ( 0.1%) 
+leafbrushes             36/65536          72/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              432/512000       1728/2048000  ( 0.1%) 
+edges                  237/256000        948/1024000  ( 0.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            21/65536          42/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       34792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          84/16777216 ( 0.0%) 
+entdata               [variable]        4714/393216   ( 1.2%) 
+LDR ambient table       63/65536         252/262144   ( 0.1%) 
+HDR ambient table       63/65536         252/262144   ( 0.1%) 
+LDR leaf ambient       147/65536        4116/1835008  ( 0.2%) 
+HDR leaf ambient        63/65536        1764/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        6537/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 152
+Writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost_test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost\test\test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost\test\test.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 19
+Reduced 6 texdatas to 6 (128 bytes to 128)
+Writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost\test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost\test\test.bsp
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost\test\test.prt
+   8 portalclusters
+  15 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 62
+Average clusters visible: 7
+Building PAS...
+Average clusters audible: 8
+visdatasize:84  compressed from 128
+writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost\test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\fakui\seafile\gaming\mapping\tf2\ghost\test\test.bsp
+64 faces
+33845 square feet [4873699.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+64 patches before subdivision
+1898 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 107312, max 178
+transfer lists:   0.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(799, 471, 1238)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(46, 27, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 16/8192          192/98304    ( 0.2%) 
+brushsides              96/65536         768/524288   ( 0.1%) 
+planes                 134/65536        2680/1310720  ( 0.2%) 
+vertexes               121/65536        1452/786432   ( 0.2%) 
+nodes                   57/65536        1824/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   64/65536        3584/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               38/65536        2128/3670016  ( 0.1%) 
+leaves                  63/65536        2016/2097152  ( 0.1%) 
+leaffaces               71/65536         142/131072   ( 0.1%) 
+leafbrushes             36/65536          72/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              432/512000       1728/2048000  ( 0.1%) 
+edges                  237/256000        948/1024000  ( 0.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            21/65536          42/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       34792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          84/16777216 ( 0.0%) 
+entdata               [variable]        4156/393216   ( 1.1%) 
+LDR ambient table       63/65536         252/262144   ( 0.1%) 
+HDR ambient table       63/65536         252/262144   ( 0.1%) 
+LDR leaf ambient       147/65536        4116/1835008  ( 0.2%) 
+HDR leaf ambient        63/65536        1764/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        6537/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 152
+Writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost\test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost\test\test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_particle_system (-60.00 -640.00 -12.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 20
+Reduced 6 texdatas to 6 (128 bytes to 128)
+Writing C:\Users\fakui\Seafile\Gaming\mapping\tf2\ghost\test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost\test\test.bsp
+reading c:\users\fakui\seafile\gaming\mapping\tf2\ghost\test\test.prt
+LoadPortals: couldn't read c:\users\fakui\seafile\gaming\mapping\tf2\ghost\test\test.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\fakui\seafile\gaming\mapping\tf2\ghost\test\test.bsp
+No vis information, direct lighting only.
+125 faces
+76442 square feet [11007776.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0020 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 16/8192          192/98304    ( 0.2%) 
+brushsides              96/65536         768/524288   ( 0.1%) 
+planes                 134/65536        2680/1310720  ( 0.2%) 
+vertexes               174/65536        2088/786432   ( 0.3%) 
+nodes                  120/65536        3840/2097152  ( 0.2%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  125/65536        7000/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               64/65536        3584/3670016  ( 0.1%) 
+leaves                 126/65536        4032/2097152  ( 0.2%) 
+leaffaces              132/65536         264/131072   ( 0.2%) 
+leafbrushes             30/65536          60/131072   ( 0.0%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges              800/512000       3200/2048000  ( 0.2%) 
+edges                  425/256000       1700/1024000  ( 0.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            21/65536          42/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       81468/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6058/393216   ( 1.5%) 
+LDR ambient table      126/65536         504/262144   ( 0.2%) 
+HDR ambient table      126/65536         504/262144   ( 0.2%) 
+LDR leaf ambient       787/65536       22036/1835008  ( 1.2%) 
+HDR leaf ambient       126/65536        3528/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        6537/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 294
+Writing c:\users\fakui\seafile\gaming\mapping\tf2\ghost\test\test.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+1 second elapsed
